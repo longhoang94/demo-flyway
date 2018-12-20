@@ -1,0 +1,11 @@
+insert into tests values (1, 'khong biet', 'long');
+insert into tests values (2, 'khong biet', 'long');
+insert into tests values (3, 'khong biet', 'long');
+insert into tests values (4, 'khong biet', 'long');
+insert into tests values (5, 'khong biet', 'long');
+insert into tests values (6, 'khong biet', 'long');
+insert into tests values (7, 'khong biet', 'long');
+insert into tests values (8, 'khong biet', 'long');
+insert into tests values (9, 'khong biet', 'long');
+insert into tests values (10, 'khong biet', 'long');
+insert into tests values (11, 'khong biet', 'long');
